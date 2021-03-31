@@ -1,0 +1,11 @@
+{
+    "NTMDB": {
+        "dbtype": "mysql",
+        "connection":{
+        "host": "11.22.33.44",
+        "port": "3306",
+        "user": "root",
+        "password": "123456"
+        }
+    }
+}
